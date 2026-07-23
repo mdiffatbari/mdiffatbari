@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am a Full-Stack Developer passionate about building secure, scalable, and user-centric web applications. I specialize in developing modern full-stack solutions using the MERN stack, transforming complex business requirements into clean, maintainable, and high-performance applications.<br><br>I am continuously improving my skills, exploring modern web technologies, and building projects that solve real-world problems.<br><br>Skills: JavaScript • React • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS • Firebase • Git • GitHub</p>
+<p data-importer="text" align="left">I am a Full-Stack MERN Developer passionate about building modern, responsive, and user-focused web applications. I specialize in developing full-stack solutions using React, Node.js, Express.js, and MongoDB, turning ideas into clean, maintainable, and reliable applications.<br><br>I am continuously improving my skills, exploring modern web technologies, and building projects that solve real-world problems.<br><br>Skills: JavaScript • React • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS • Firebase • Git • GitHub</p>
 
 ###
 
